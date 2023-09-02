@@ -1,0 +1,26 @@
+Hey these are the questions and task:
+Solved answers are as follows as listed in the iris.datanpy file
+
+1.1.) Automate the notebook with name, date and student number
+
+1.2.) Calculate cubic equation
+
+1.3.) print hello world
+
+1.4.) Define a function and call it from another cell.
+
+
+Task 2
+
+2.1) Create List containing 5 short strings
+
+2.2) Loop that prints out in reverse order
+
+2.3) use of equals function else false
+
+2.4) Create a dictionary 
+
+2.5) Print the count key by indexing it into the dictionary.
+
+2.6) use of f-string
+
